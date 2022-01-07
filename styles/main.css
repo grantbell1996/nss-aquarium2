@@ -1,0 +1,191 @@
+.column {
+    display: flex;
+}
+.body {
+    background-image: url(https://img.wallpapersafari.com/desktop/1280/1024/91/26/pgH6Ca.jpg);
+}
+.logo {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 0px;
+    margin: 10px;
+    width: 12%;
+    height: 12%;
+}
+.header {
+    color: rgb(24, 38, 104);
+    font-style: oblique;
+    font-size: 600%;
+    text-align: center;
+    width: auto;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(173, 207, 236);
+    display: flex;
+    justify-content: space-between;
+}
+.title {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+}
+.search-box {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    height: %;
+
+}
+.fish-collection {
+    width: 50%;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: blanchedalmond;
+}
+.fish-collection-banner{
+    color: rgb(36, 36, 121);
+    font-style: oblique;
+    font-size: 300%;
+    text-align: center;
+}
+.angel-bloc {
+   display:flex;
+}
+.flower-bloc {
+    display:flex;
+}
+.arowana-bloc {
+    display:flex;
+}
+.angelfish-IMG {
+    width: 40%;
+    height: auto;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 0px;
+    margin: 10px;
+}
+.angelfish-container {
+    display: flex;
+    
+}
+.angelfish-info {
+    font-size: 200%;
+    font-style: oblique;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    height: %;
+}
+.flowerhorn-IMG {
+    width: 40%;
+    height: auto;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 0px;
+    margin: 10px;
+}
+.flowerhorn-info{
+    font-size: 200%;
+    font-style: oblique;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    width: 110%;
+}
+.arowana-IMG {
+    width: 44%;
+    height: auto;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 0px;
+    margin: 10px;
+}
+.arowana-info {
+    font-size: 200%;
+    font-style: oblique;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    height: %;
+}
+.martins-tips {
+    width: 20%;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: blanchedalmond;
+    
+}
+    
+.martins-tips-banner {
+    color: rgb(36, 36, 121);
+    font-style: oblique;
+    font-size: 300%;
+}
+.martins-tips-info {
+    width: 150px;
+    font-size: 200%;
+    font-style: oblique;
+}
+.travel-loc-bloc {
+    width: 30%;
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: blanchedalmond;
+
+}
+.travel-tips {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.travel-tips-banner {
+    color: rgb(36, 36, 121);
+    font-style: oblique;
+    font-size: 300%;
+}
+.tips-list {
+    width: 150px;
+    font-size: 200%;
+    font-style: oblique;
+
+}
+.locations-box {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.locations {
+    font-size: 250%;
+    font-style: oblique;
+
+}
+.locations-banner {
+    color: rgb(36, 36, 121);
+    font-style: oblique;
+    font-size: 150%;
+}
+.aruba {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+
+}
+.hawaii {
+    border: 10px solid rgb(24, 29, 70);
+    padding: 50px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+
+
+}
